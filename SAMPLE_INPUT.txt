@@ -1,0 +1,1 @@
+For E.g. if text is KHOOR ZRUOG the if you see on shift 3 it will show HELLO WORLD.
