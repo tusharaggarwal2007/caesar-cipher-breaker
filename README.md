@@ -6,7 +6,6 @@ A C program that brute forces Caesar cipher using frequency analysis of letter '
 ## 1st Year Topics Used
 1. C: Strings, loops, functions
 2. DSA: Array for frequency table, Linear search
-3. Cyber Sec: Classical cryptography attack
 
 ## How to Run
 ```bash
